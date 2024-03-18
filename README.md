@@ -4,7 +4,7 @@
 
 ## Team members
 
-Mihir Mahajan, Fiona 
+Mihir Mahajan, Fiona Crenshaw
 
 ## Project decription
 
