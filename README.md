@@ -8,7 +8,7 @@ Mihir Mahajan, Fiona Crenshaw
 
 ## Project decription
 
-Max ½ page. Include some information on:
+Code for neural network: https://colab.research.google.com/drive/1Q-dDghdRO6Um-CjTZKxLY031Ndz8Hgk1?usp=sharing 
 
 - dataset: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 - This dataset has images of brain tumors separated as glioma, meningioma, pituitary, and no tumors
